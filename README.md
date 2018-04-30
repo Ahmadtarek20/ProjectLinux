@@ -24,15 +24,15 @@ The URL to the hosted webpage is: http://18.196.81.55/
 ### Create an instance with Amazon Lightsail
 1. Sign in to [Amazon Lightsail](https://amazonlightsail.com) using an Amazon Web Services account
 
-1* Follow the 'Create an instance' link
+* Follow the 'Create an instance' link
 
-1* Choose the 'OS Only' and 'Ubuntu 16.04 LTS' options
+* Choose the 'OS Only' and 'Ubuntu 16.04 LTS' options
 
-1* Choose a payment plan
+* Choose a payment plan
 
-1* Give the instance a unique name and click 'Create'
+* Give the instance a unique name and click 'Create'
 
-1* Wait for the instance to start Project
+* Wait for the instance to start Project
 
 
 ####4. Server Configuration and Super user creation
